@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20355419-5164-4f0c-b055-5a8e836da718" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/automacao/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetSms_/automacao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NetSms_/automacao/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetSms_/automacao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NetSms_/automacao/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NetSms_/automacao/src/test/java/executaveis/Financeiro/CT_001/CT_Regressao_NETSMS_Faturar_2_via_Cancelar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NetSms_/automacao/src/test/java/executaveis/Financeiro/CT_001/CT_Regressao_NETSMS_Faturar_2_via_Cancelar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/src/test/java/paginas/base/change_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/src/test/java/paginas/base/change_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/src/test/resources/massasTeste/abrindoTicket.xls" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/src/test/resources/massasTeste/abrindoTicket.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/src/test/resources/results/idTickets.xls" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/src/test/resources/results/idTickets.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/target/test-classes/executaveis/abrindoTicket/ricardo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/target/test-classes/massasTeste/abrindoTicket.xls" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/target/test-classes/massasTeste/abrindoTicket.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/target/test-classes/massasTeste/abrindoTicket_subida1.xls" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/target/test-classes/massasTeste/abrindoTicket_subida1.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/target/test-classes/massasTeste/fechandoTicket.xls" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/target/test-classes/massasTeste/fechandoTicket.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/target/test-classes/paginas/base/change_main.class" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/target/test-classes/paginas/base/change_main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/target/test-classes/results/idTickets.xls" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/target/test-classes/results/idTickets.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automacao/target/test-classes/results/idTickets_corr.xls" beforeDir="false" afterPath="$PROJECT_DIR$/automacao/target/test-classes/results/idTickets_corr.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cucumber_/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cucumber_/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/src/test/java/objects/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/src/test/java/objects/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/test1/2018_09_18/15h16m30s/test1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_14/OK/15h26m42s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/11h01m07s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/11h03m49s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/11h06m06s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/11h18m01s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/11h19m06s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/11h19m51s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/11h21m10s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/11h23m30s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/12h03m13s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/12h03m57s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/12h16m00s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/12h33m37s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/12h38m03s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/13h43m49s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/14h01m21s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/14h11m52s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/11h05m12s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/11h11m53s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/11h24m48s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h07m21s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h08m38s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h13m21s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h14m26s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h40m50s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h41m42s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h43m58s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h45m16s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h47m23s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/12h49m15s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/13h42m36s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/13h45m36s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/14h02m09s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/14h05m04s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/14h06m06s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/14h09m16s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/14h12m28s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/14h13m30s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/14h15m31s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/evidencias/testAddUserDevEugenioValidatingTerms/2018_09_17/OK/14h16m44s/testAddUserDevEugenioValidatingTerms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/objects/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/objects/Users.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/utils/Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eugenio-artit/eugenio-user-service-ihc/target/test-classes/utils/Steps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtools_/automacao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../webtools_/automacao/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2009929206">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/automacao/src/test/java/executaveis/abrindoTicket/abrindoTicket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="640" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="executaveis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="executaveis" type="462c0819:PsiDirectoryNode" />
+              <item name="abrindoTicket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="change_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="change_" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/automacao" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20355419-5164-4f0c-b055-5a8e836da718" name="Default" comment="" />
+      <created>1521716632773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521716632773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/automacao/target/test-classes/baseTesting/TestPaginaAulagratisCadastroUsuario.class" />
+    <entry file="file://$PROJECT_DIR$/automacao/src/test/java/executaveis/abrindoTicket/abrindoTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

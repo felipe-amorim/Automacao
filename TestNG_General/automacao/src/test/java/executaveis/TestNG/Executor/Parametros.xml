@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Suite de execução">
+    <test name = "Teste parametros">
+        <parameter name="browser" value="Google Chrome"/>
+        <parameter name="platform" value="Windows"/>
+        <parameter name="response" value="201, 202, 400"/>
+        <classes>
+            <class name = "executaveis.TestNG.Classes.Parametros_XML" />
+        </classes>
+    </test>
+</suite>

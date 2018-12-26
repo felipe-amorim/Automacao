@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Suite de execução">
+    <listeners>
+        <listener class-name="executaveis.TestNG.Classes.Listeners.CustomListenersGeneralData"/>
+    </listeners>
+    <test name = "Teste custom listener">
+        <classes>
+            <class name = "executaveis.TestNG.Classes.Listeners.CustomListenerIInvoke" />
+        </classes>
+    </test>
+</suite>

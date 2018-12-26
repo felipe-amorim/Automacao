@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Suite de execução" parallel="tests" thread-count="2">
+    <test name = "Paralela1" >
+        <classes>
+            <class name = "executaveis.TestNG.Classes.Execucao_Paralela.Paralela1" />
+        </classes>
+    </test>
+    <test name = "Paralela2" >
+        <classes>
+            <class name = "executaveis.TestNG.Classes.Execucao_Paralela.Paralela2" />
+        </classes>
+    </test>
+</suite>

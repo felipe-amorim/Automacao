@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Suite de execução">
+    <test name = "Teste por grupos - Nao motos">
+        <groups>
+            <define name="NaoMoto">
+                <include name="sedan"/>
+                <include name="ret"/>
+            </define>
+            <run>
+                <include name="NaoMoto"/>
+            </run>
+        </groups>
+        <classes>
+            <class name = "executaveis.TestNG.Classes.GroupsDeCT" />
+        </classes>
+    </test>
+    <test name="Teste por grupos - Sedan honda">
+        <groups>
+            <run>
+                <include name="sedan"/>
+                <exclude name="fiat"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="executaveis.TestNG.Classes.GroupsDeCT"/>
+        </classes>
+    </test>
+</suite>

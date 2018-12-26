@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Suite de execução">
+    <test name = "Dependencias" preserve-order="false"> <!-- True roda na ordem declarada(2 depois 1), False roda na ordem default / alfabética (1 depois 2) -->
+        <classes>
+            <class name = "executaveis.TestNG.Classes.Preserve_Order.Order2" />
+            <class name = "executaveis.TestNG.Classes.Preserve_Order.Order1" />
+        </classes>
+    </test>
+</suite>
